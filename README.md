@@ -73,8 +73,11 @@ A data visualization dashboard was created to present key insights, including:
 Key insights derived from the analysis include:
 
 .Books and Clothing generate the highest revenue.
+
 .Credit Card is the most used payment method.
+
 .Return rate is relatively high across products.
+
 .Average Order Value (AOV) is 2721.82.
 
 ---
@@ -83,6 +86,8 @@ Key insights derived from the analysis include:
 **Prity Jaiswal**
 
 Aspiring **Data Analyst** passionate about transforming raw data into meaningful insights.
+
+GitHub: https://github.com/prityj058-gif
 
 ---
 
